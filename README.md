@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://github.com/ArthurDays"> 
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurDays/ArthurDays/main/dark_mode_card.svg">
+      <img alt="Perfil do GitHub do ArthurDays" src="https://raw.githubusercontent.com/ArthurDays/ArthurDays/main/light_mode_card.svg">
+    </picture>
+  </a>
+</p>
 
-<!--
-**ArthurDays/ArthurDays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi! 👋 My name is Arthur days!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou um entusiasta da automação com experiência em:
+- Linguagens de programação: Python, JavaScript
+- Ferramentas de automação: n8n, RPA (UiPath/Automation Anywhere)
+- Desenvolvimento FullStack
