@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou ArthurDays 👋
 
-<!--
-**ArthurDays/ArthurDays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aqui está um resumo das minhas informações:
 
-Here are some ideas to get you started:
+![ArthurDays Profile Card](github.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Sobre mim
+
+Sou um entusiasta da automação com experiência em:
+- Automações com n8n, RPA (UiPath/Automation Anywhere) e Python.
+- Desenvolvimento front-end básico e gerenciamento de bancos de dados.
+
+Minhas principais ferramentas e tecnologias incluem:
+- **Linguagens de Programação:** Python, JavaScript
+- **Linguagens de Computador:** HTML, CSS, SQL, JSON
+- **IDEs/Ferramentas:** VS Code, n8n, UiPath Studio (exemplo de RPA Studio)
