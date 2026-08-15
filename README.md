@@ -2,9 +2,9 @@
 
 # Olá, eu sou Arthur Days 👋
 
-### AI-native Software Engineer · Full-Stack · Automation
+### AI-Native Software Engineer · Agentic Systems · Automation
 
-Desenvolvo produtos e automações combinando engenharia de software com IA: agentes, APIs, integrações, aplicações web e workflows orientados a resultados.
+Construo software com uma stack de IA: agentes colaborativos, modelos generativos, automações e práticas modernas de engenharia para transformar requisitos em sistemas funcionais, seguros e documentados.
 
 Meu foco atual é transformar problemas reais em sistemas simples de operar, observáveis e seguros — usando IA como parte do processo de engenharia, não apenas como uma camada de interface.
 
@@ -34,9 +34,19 @@ Problema real → arquitetura enxuta → implementação assistida por IA
 
 Valorizo documentação que permite reproduzir o projeto, decisões técnicas explícitas e automações que continuem compreensíveis depois que saem do protótipo.
 
-## Tecnologias
+## AI Engineering Stack
 
-`JavaScript` · `Node.js` · `Python` · `Express` · `SQL` · `n8n` · `Docker` · `GitHub Actions` · `Jest` · `OpenAPI` · `AI APIs`
+| Camada | Competências e ferramentas |
+| --- | --- |
+| **AI Development** | Codex, GitHub Copilot e desenvolvimento orientado por agentes |
+| **Models** | OpenAI, Gemini e Groq |
+| **Agentic Systems** | agentes, ferramentas, memória, prompting e workflows multiagente |
+| **Automation & Integration** | n8n, RPA, APIs, webhooks e integrações com WhatsApp |
+| **Software Engineering** | arquitetura, autenticação, testes, segurança e documentação |
+| **Delivery** | Docker, GitHub Actions e CI/CD |
+| **Languages & Runtime** | JavaScript, Node.js, Python e SQL — escolhidos conforme o problema |
+
+> Linguagens e frameworks são ferramentas de implementação. O foco é projetar e entregar soluções completas com engenharia de software e IA aplicada.
 
 ## Contato
 
