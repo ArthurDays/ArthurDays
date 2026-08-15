@@ -1,4 +1,4 @@
-![Arthur Days — AI-native Software Engineering](capa_github.png)
+![Arthur Days — AI-native Software Engineering](profile-banner-v2.png)
 
 # Olá, eu sou Arthur Days 👋
 
