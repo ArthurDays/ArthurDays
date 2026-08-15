@@ -21,6 +21,7 @@ Meu foco atual é transformar problemas reais em sistemas simples de operar, obs
 
 | Projeto | O que demonstra | Tecnologias |
 | --- | --- | --- |
+| [Protocol Intelligence](https://github.com/ArthurDays/dashboard-protocolos) | Plataforma AI-native de protocolos com triagem agentic explicável, confiança, guardrails, revisão humana auditável, SLA e CI | React, TypeScript, Fastify, Prisma, PostgreSQL, Vitest, Docker, GitHub Actions |
 | [NeoBank API](https://github.com/ArthurDays/banking-api) | API bancária full-stack com autenticação JWT, transações, PIX, documentação e assistente com IA | Node.js, Express, SQLite, Jest, Docker, GitHub Actions, Gemini |
 | [Óptima Digital](https://github.com/ArthurDays/OptimaAi) | Plataforma web de marketing e automação com foco em performance, qualidade e experiência mobile | JavaScript, Tailwind CSS, PWA, Jest, TDD |
 | [Boa Noite, Mãe](https://github.com/ArthurDays/n8n-projeto-good-night) | Workflow multiagente que cria texto e imagem com IA e envia a composição pelo WhatsApp | n8n, Gemini, Groq, OpenAI, Evolution API |
