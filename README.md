@@ -1,6 +1,6 @@
 ![Arthur Days — AI-native Software Engineering](profile-banner-v2.png)
 
-# Olá, eu sou Arthur Days 👋
+# Hi, eu sou Arthur Days 👋
 
 ### AI-Native Software Engineer · Agentic Systems · Automation
 
